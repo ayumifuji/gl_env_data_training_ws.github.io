@@ -8,9 +8,7 @@ Hosted by the Cooperative Institute for Great Lakes Research (CIGLR) in collabor
 
 - Recordings and Slides
 
--- Session I
-
---- Presentation 1, Recoing and Slides
+-Session I Presentation 1, Recoing and Slides
 
 --- Presentation 2, Recoing and Slides
 
