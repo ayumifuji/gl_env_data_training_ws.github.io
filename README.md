@@ -8,27 +8,27 @@ Hosted by the Cooperative Institute for Great Lakes Research (CIGLR) in collabor
 
 - Recordings and Slides
 
-- Session I
+-- Session I
 
-- Presentation 1, Recoing and Slides
+--- Presentation 1, Recoing and Slides
 
-- Presentation 2, Recoing and Slides
+--- Presentation 2, Recoing and Slides
 
-- Presentation 3, Recoing and Slides
+--- Presentation 3, Recoing and Slides
 
-- Pressentation 4, Recoing and Slides
+--- Pressentation 4, Recoing and Slides
 
-- Presentation 5, Recoing and Slides
+--- Presentation 5, Recoing and Slides
 
-- Session IV
+-- Session IV
 
-- Panel Presentation 1, Recoing and Slides
+--- Panel Presentation 1, Recoing and Slides
 
-- Panel Presnetation 2, Recoing and Slides
+--- Panel Presnetation 2, Recoing and Slides
 
-- Panel Presentation 3, Recoing and Slides
+--- Panel Presentation 3, Recoing and Slides
 
-- Panel Presentation 4, Recoing and Slides
+--- Panel Presentation 4, Recoing and Slides
 
 - Hands-on Activity Materials
 
